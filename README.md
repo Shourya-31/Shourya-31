@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Nirman_Jashpur. A project under Chhattisgarh goverment<br>🌱 I’m currently learning AI, ML and Data Science<br>
+🔭 I’m currently working on Nirman_Raipur. A project under Chhattisgarh goverment<br>🌱 I’m currently learning AI, ML and Data Science<br>
 
 
 ## 🌐 Socials:
