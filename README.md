@@ -78,26 +78,7 @@
 
 ---
 
-## ⚙️ Add-Ons for More Functionality
-
-📈 **Activity Graph:**
-
-```md
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Shourya-31&theme=nightowl)
-```
 
-👁️ **Visitor Counter:**
-
-```md
-![](https://komarev.com/ghpvc/?username=Shourya-31&label=Profile%20Views&color=brightgreen&style=flat-square)
-```
-
-💡 **Optional Integrations:**
-
-* [x] WakaTime stats for coding activity.
-* [x] GitHub metrics via [metrics.lecoq.io](https://github.com/lowlighter/metrics)
-* [x] Dynamic badges for followers, stars, and repositories.
-
----
 
 ⭐ *Built with passion and curiosity by [Shourya Veer Singh](https://github.com/Shourya-31)*
