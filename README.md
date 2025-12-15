@@ -69,7 +69,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Shourya-31\&theme=nightowl\&hide_border=false\&include_all_commits=true\&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shourya-31\&theme=nightowl\&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shourya-31\&theme=nightowl\&hide_border=false\&layout=compact)
-[![GitHub Calendar](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shourya-31&theme=tokyonight)](https://github.com/Shourya-31)
 
 ---
 
