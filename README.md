@@ -78,7 +78,7 @@
 
 ---
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Shourya-31&theme=nightowl)
+https://github-readme-activity-graph.vercel.app/graph?username=Shourya-31&custom_title=Shourya%20Activity%20Graph&hide_border=false&theme=nightowl
 
 
 ⭐ *Built with passion and curiosity by [Shourya Veer Singh](https://github.com/Shourya-31)*
