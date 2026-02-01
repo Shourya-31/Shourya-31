@@ -1,9 +1,10 @@
 # 💫 About Me
 
-🔭 Currently building **Dinie**, a Kotlin-based private texting app for couples ❤️<br>
+🔭 Currently building **AnbuShree**, a Kotlin-based android app made for the security of women<br>
 👯 Open to collaborations on **Dinie** — let’s create something meaningful and secure together.<br>
 🌱 Exploring **AI, ML, and Deep Learning** — integrating intelligence into real-world applications.<br>
 ⚡ Fun fact: *I find joy in every single line of code I write.*
+
 
 ---
 
