@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🔭 Currently building **AnbuShree**, a Kotlin-based android app made for the security of women<br>
+🔭 Currently writing a deep learning based research paper targetting in optimization of Spiking Neural Networks<br>
 👯 Open to collaborations on **Dinie** — let’s create something meaningful and secure together.<br>
 🌱 Exploring **AI, ML, and Deep Learning** — integrating intelligence into real-world applications.<br>
 ⚡ Fun fact: *I find joy in every single line of code I write.*
